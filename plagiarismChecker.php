@@ -122,9 +122,6 @@
                       <h6 class="url-txt">Check Plagiarism via Webpage URL</h6>
                       <form method="post" name="url">
                         <div class="input-group mb-3">
-                          <div class="input-group-prepend">
-                            <button class="btn btn-url" type="button">@</button>
-                          </div>
                           <textarea type="text" name="url" class="form-control rounded-0" id="FormControlTextarea" rows="1" placeholder="url" maxlength="100" ></textarea>
                           <div class="col-lg-2 col-xs-12 col-sm-12 btn-3 text-center mt-5 mb-5 justify-content-center">
                            <input type="submit" class="btn btn-primary" value="Check!">
